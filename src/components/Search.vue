@@ -30,15 +30,19 @@
 		background-color: #e7e7e7;
 		color:#000;
 	}
+	
 	.search::-webkit-input-placeholder {
 		color:#ccc;
 	}
+
 	.search:focus {
 		background-color: #e7e7e7;
 	}
+
 	.search:focus::-webkit-input-placeholder {
 		color:#ccc;
 	}
+
 	.searchBtn {
 		outline: none;
 		padding: 10px;
