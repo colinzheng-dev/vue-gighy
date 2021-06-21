@@ -30,4 +30,4 @@ new Vue({
   components: { App }
 })
 
-/* eslint-disable no-new */
+/* eslint-disable no-new vue fiel created*/

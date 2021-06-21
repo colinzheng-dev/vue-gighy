@@ -14,3 +14,4 @@ export default new Router({
   ],
   mode: 'history'
 })
+//this is a file to create a vue .js file
